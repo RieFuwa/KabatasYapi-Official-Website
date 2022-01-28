@@ -30,8 +30,8 @@ function Footer() {
                         <Col>
                         <ListGroup variant="flush" >
                                 <ListGroup.Item className='cardd bg-secondary'>BİZE ULAŞIN</ListGroup.Item>
-                                <ListGroup.Item className='cardd bg-secondary'>Telefon: 0216 311 84 09</ListGroup.Item>
-                                <ListGroup.Item className='cardd bg-secondary'>Adres: Fatih, 34885 Sancaktepe/İst.</ListGroup.Item>
+                                <ListGroup.Item className='cardd bg-secondary'>Telefon: 9999 999 99 99</ListGroup.Item>
+                                <ListGroup.Item className='cardd bg-secondary'>Adres: XXXXX, XXXXX XXXXXXXX/İst.</ListGroup.Item>
                                 <ListGroup.Item className='cardd bg-secondary'></ListGroup.Item>
                                 <ListGroup.Item className='cardd bg-secondary'></ListGroup.Item>
                                 
