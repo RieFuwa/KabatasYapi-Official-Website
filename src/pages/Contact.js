@@ -17,7 +17,7 @@ function Contact() {
           <Card.Body>
             <Card.Title>İLETİŞİM</Card.Title>
             <Card.Text>
-              TELEFON: 0216 311 84 09
+              TELEFON: 9999 999 99 99
             </Card.Text>
             <Card.Text>
               ADRES: Yakacık Cad., No:63B, Sancaktepe/İst.
