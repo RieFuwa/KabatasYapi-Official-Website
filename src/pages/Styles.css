@@ -1,0 +1,109 @@
+.home{
+    min-height: 180vmax;
+   
+}
+.Service{
+    min-height: 148vmax;
+}
+.Contact{
+    min-height: 101.5vmax;
+}
+.about{
+    min-height: 89vmax;
+}
+.error{
+    margin-top: 20%;
+    color: white;
+    min-height: 30vmax;
+    font-size: 50px;
+    text-align: center;
+}
+.errorA{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    
+    
+}
+.listService{
+    margin-left: 0%;
+    
+}
+.container img{
+    margin-left: 20%;
+}
+.table{
+    text-align: center;
+    margin-top: 5%;
+    
+    
+}
+.a{
+    float: left;
+}
+.h1ser{
+    margin-top: 2%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h2ser{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.shortstyle{
+    margin-left: 20%;
+    margin-right: 20%;    
+    margin-top: 5%;
+}
+.formh3{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.listgroup2{
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.cardmini{
+    background-color: rgb(255, 253, 250);
+    color: white;
+}
+.mb-3{
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+}
+.mb-2{
+    margin-left: 10%;
+}
+.aboutcard{
+    font-size: 20px;
+    color: white;
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.blockquote{
+    font-size: 15px;
+    color: black;
+}
+.card-img-top:hover{
+    opacity: 0.9;
+    
+}
+.contanctabout{
+    margin-top: 3%;
+    margin-left: 38.7%;
+}
+.contanctabout:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+     transform: scale(1.2);
+}

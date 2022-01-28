@@ -1,0 +1,8 @@
+
+.carousel-item img{
+    height: 100%;
+}
+.carousel-caption{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}

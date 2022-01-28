@@ -1,0 +1,159 @@
+.container-fluid{
+    margin: 0%;
+}
+.navbar-brand{
+    margin-left: 0%;
+    width: 50%;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-item{
+    font-size: 20px;   
+}
+
+.navbar-collapse > ul li {
+    position: relative;
+}
+.navbar-collapse ul a:after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: white;
+    transform:scaleX(0);
+    transition: transform 0.60s ease-out;
+    transform-origin: left bottom;
+}
+
+.navbar-collapse ul a:hover:after{
+    transform: scale(1);   
+}
+
+.navbar-collapse > ul li:not(:first-child){
+    margin-left: 0%;
+}
+.card-body{
+    background-color: rgb(255, 253, 250);
+    
+}
+.card-group{
+    
+    margin-top: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.h1{
+    font-size: 30px;
+    color: white;
+    padding: 0.5%;
+    text-align: center;
+   
+}
+.h5{
+    font-size: 13px;
+    color: rgb(230, 50, 19);
+    padding: 0.5%;
+    text-align: center;
+  
+}
+.smallcard{
+    margin-top: 2%;
+    padding: 0.5%;
+}
+
+.Minicard{
+    
+    margin-top: 1%;
+    padding: 1%;
+}
+.Minicard2{
+    
+    padding: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.accordion-button{
+    color: white;
+}
+.card-img{
+    height: 250px;
+}
+.c1{
+    
+    margin-left: 37%;
+    font-size: 70px;
+    color:rgb(0, 0, 0);
+}
+.at{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+.hr{
+    height:10px;
+    background-color: white;
+    width: 100%;
+    margin-top: 1%; 
+}
+.accor{
+    position: relative;
+    margin-left: 50%;
+    margin-top: -31%;
+    margin-right: 5%;
+}
+.Lower{
+    
+    position: relative;
+    margin-top: 13%;
+   text-align: center;
+}
+.Lower2{
+    margin-top: 1%;
+     padding: 1%;
+}
+.LowerBas{
+    font-size: 20px;
+    color: white;
+    text-align: center; 
+}
+.cardd{    
+    color: white; 
+    font-size: 14px;
+}
+.share{
+    text-align: center;
+}
+.sharea{
+    
+    font-size: 35px;
+    color:rgb(255, 255, 255);
+}
+
+
+.cardminia:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+     transform: scale(1.15);
+}
+.cardmini:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+     transform: scale(1.12); 
+}
+.card-text{
+    font-size: 14px;
+    text-align: center;
+    
+}
+.card-title{
+    font-size: 18px;
+    text-align: center;
+}
+.alink{
+    text-decoration: none;
+    color:black;
+}
