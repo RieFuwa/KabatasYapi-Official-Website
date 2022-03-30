@@ -1,4 +1,4 @@
-What the app looks like
+## What the app looks like
 
 ![ss1](https://user-images.githubusercontent.com/71210936/151533472-950e9cc9-85f3-4a00-96ad-aa25cd8d708f.JPG)
 ![ss2](https://user-images.githubusercontent.com/71210936/151533489-058b86f2-f2d2-4c4e-9182-4d85210f2e82.JPG)
